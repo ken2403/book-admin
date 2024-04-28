@@ -1,0 +1,12 @@
+{
+  "apps": {
+    "E05CUN3JKJN": {
+      "app_id": "A071DEPGLD7",
+      "enterprise_id": "E05CUN3JKJN",
+      "IsDev": false,
+      "team_domain": "genda-group",
+      "team_id": "E05CUN3JKJN"
+    }
+  },
+  "default": "genda-group"
+}
